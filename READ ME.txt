@@ -1,0 +1,6 @@
+-----Instructions-----
+
+1: Install Python 3.11 from Microsoft Store
+2: Open CLI
+3: Change directory to PortSec-App file and type: pip install -r requirements.txt
+4: Run Hamster.exe as administrator
